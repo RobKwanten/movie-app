@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+.active {
+  background-color: lightgreen;
+}
+.error {
+  background-color: #f00;
+}
